@@ -12,6 +12,7 @@
 13
 <br/><br/>📫 **Contact me:** [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitormcardoso/)](https://www.linkedin.com/in/vitormcardoso/)
 
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621435593189.png" width="400px" />
 
 **Languages and tools:**  
 
