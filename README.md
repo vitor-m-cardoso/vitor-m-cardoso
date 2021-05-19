@@ -1,6 +1,6 @@
 # Vitor Cardoso
 
-## Hi there 👋
+## Hi there 👋👋
 
 <br/>🔭 **I’m currently: Begining my studies at Trybe.
 <br/>🌱 **I'm currently learning: HTML5, CSS3, JavaScript ES6, Node.js and ReactJS.
