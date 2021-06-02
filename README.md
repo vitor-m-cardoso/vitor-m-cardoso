@@ -17,7 +17,9 @@
 **Languages and tools:**  
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<img src="https://camo.githubusercontent.com/54d132e252c6ff56897de4f527263296004521b19f27d32e4dbe5f78711681af/68747470733a2f2f696d672e69636" alt="Terminal Linux" width="40" height="40"/>
+<img src="https://camo.githubusercontent.com/bc60041f5ea7b022c6419b73a15aaac12a2ede682867ec0d3e3c9ec374dce54b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6769742e706e67" alt="Git" width="40" height="40"/>
+<img src="https://camo.githubusercontent.com/91624b4794cb98081ea55063865721be4b4399472c81e66b89b37fd07aad1d92/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352e706e67" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
