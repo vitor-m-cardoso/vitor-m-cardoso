@@ -3,9 +3,10 @@
 ## Hi there 👋👋
 
 <br/>🔭 **I’m currently: Begining my studies at Trybe.
-<br/>🌱 **I'm currently learning: HTML5, CSS3, JavaScript ES6, Node.js and ReactJS.
+<br/>🌱 **I've already learned: HTML5, CSS3, JavaScript ES6 and Bootstrap.
+<br/>🌱 **I'm currently learning: Node.js, React.js and TypeScript.
 <br/>🚀 **I'm currently working: On some private projects to improve my skills.
-<br/>💬 **About me:** I love programming and everything associated with technology, coding, games, and watching Netflix/PrimeVideo.
+<br/>💬 **About me:** I love programming and everything associated with technology, coding, games and watching Netflix/PrimeVideo.
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621435593189.png" width="400px" />
 
