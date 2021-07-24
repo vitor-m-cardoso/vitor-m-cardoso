@@ -3,7 +3,7 @@
 ## Hi there 👋👋
 
 <br/>🔭 **I’m studying: Full-Stack Web Development.
-<br/>🌱 **I've already learned: HTML5, CSS3, JavaScript ES6, Bootstrap, React and Redux.
+<br/>🌱 **I've already learned: Linux; Unix and Bash; Git and GitHub; HTML and CSS; JavaScript and Programming Logic; Unit Tests; API Requests; Automated Tests with Jest; Bootstrap; React and Redux.
 <br/>🌱 **I'm learning: React Hooks.
 <br/>🚀 **I'm working on: Private projects to improve my skills, Origamid course projects, Rocketseat course projects and Trybe course projects.
 
