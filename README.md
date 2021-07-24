@@ -2,11 +2,10 @@
 
 ## Hi there 👋👋
 
-<br/>🔭 **I’m currently: Begining my studies at Trybe.
-<br/>🌱 **I've already learned: HTML5, CSS3, JavaScript ES6 and Bootstrap.
-<br/>🌱 **I'm currently learning: Node.js, React.js and TypeScript.
-<br/>🚀 **I'm currently working: On some private projects to improve my skills.
-<br/>💬 **About me:** I love programming and everything associated with technology, coding, games and watching Netflix/PrimeVideo.
+<br/>🔭 **I’m studying: Full-Stack Web Development.
+<br/>🌱 **I've already learned: HTML5, CSS3, JavaScript ES6, Bootstrap, React and Redux.
+<br/>🌱 **I'm learning: React Hooks.
+<br/>🚀 **I'm working on: Private projects to improve my skills, Origamid course projects, Rocketseat course projects and Trybe course projects.
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621435593189.png" width="300px" />
 
