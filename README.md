@@ -25,3 +25,7 @@
 <img src="https://camo.githubusercontent.com/0174b03bab13c90e5673eaafbaa2cc273f8f0f8e70c39e660d0db9895f41f7ae/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f626f6f7473747261702e706e67" alt="Bootstrap icon" width="30" height="30" />
 <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest icon" width="30" height="30" />
 </p>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/vitor-m-cardoso/count.svg" alt="Visitor Count" align="center" />
+</p>
