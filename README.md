@@ -3,8 +3,8 @@
 ## Hi there 👋👋
 
 <br/>🔭 **I’m studying: Full-Stack Web Development.
-<br/>🌱 **I've already learned: Linux; Unix and Bash; Git and GitHub; HTML and CSS; JavaScript and Programming Logic; Unit Tests; API Requests; Automated Tests with Jest; Bootstrap; React and Redux; MySQL.
-<br/>🌱 **I'm learning: MongoDB.
+<br/>🌱 **I've already learned: Linux; Unix and Bash; Git and GitHub; HTML and CSS; JavaScript and Programming Logic; Unit Tests; API Requests; Automated Tests with Jest; Bootstrap; React and Redux; MySQL and MongoDB.
+<br/>🌱 **I'm learning: node.js.
 <br/>🚀 **I'm working on: Private projects to improve my skills, Origamid course projects, Rocketseat course projects and Trybe course projects.
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621435593189.png" width="280px" />
