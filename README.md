@@ -40,8 +40,6 @@
 
 <br/>
 
-Let's connect 👨‍💻
-
 [website]: https://vitor-m-cardoso.github.io/
 [instagram]: https://www.instagram.com/vitorcaardoso_/
 [linkedin]: https://www.linkedin.com/in/vitormcardoso/
