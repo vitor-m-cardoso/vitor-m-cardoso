@@ -2,6 +2,8 @@
 
 I am a Full-stack Web Developer
 
+---
+
  🔭 I’m planning for a Project ****.
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> (MSC, REST, RESTful).
