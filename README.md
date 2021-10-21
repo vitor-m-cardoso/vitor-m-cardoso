@@ -1,6 +1,6 @@
 # Hi there, Vitor Cardoso here 👋👋
 
-I am a Full-stack Web Developer
+I am a Full-stack Web Developer.
 
 ---
 
