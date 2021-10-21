@@ -38,6 +38,8 @@
 [<img align="left" alt="Vitor Cardoso | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Vitor Cardoso | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br/>
+
 Let's connect 👨‍💻
 
 [website]: https://vitor-m-cardoso.github.io/
