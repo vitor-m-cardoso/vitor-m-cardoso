@@ -1,5 +1,7 @@
 # Hi there, Vitor Cardoso here 👋👋
 
+---
+
 ## I am a Full-stack Web Developer
 
  🔭 I’m planning for a Project ****.
@@ -11,6 +13,8 @@
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
  
  ![Profile views](https://gpvc.arturio.dev/vitor-m-cardoso)  <img src="https://img.shields.io/github/followers/vitor-m-cardoso?label=Follow" style=" float:left, margin-right:10px" />
+ 
+ ---
  
  ### Tech & Tools Preference
  
@@ -26,6 +30,8 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+
+---
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="vitor-m-cardoso" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
