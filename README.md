@@ -1,6 +1,6 @@
 # Hi there, Vitor Cardoso here 👋👋
 
-I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast.
+## I am a Full-stack Web Developer
 
  🔭 I’m planning for a Project ****.
  
