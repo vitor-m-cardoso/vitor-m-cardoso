@@ -6,7 +6,7 @@ I am a Full-stack Web Developer.
 
  🔭 I’m planning for a Project using **Node.JS**.
  
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> (MSC, REST, RESTful, JWT).
+ 🌱 I’m currently learning <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> (MSC, REST API's, JWT).
  
  :books: I want to learn <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
  
