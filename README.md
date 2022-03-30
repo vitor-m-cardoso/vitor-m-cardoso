@@ -3,10 +3,8 @@
 I am a Full-stack Web Developer.
 
 ---
-
- 🔭 I’m planning for a Project using **Python**.
  
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> and <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">.
+ 🌱 I’m currently learning <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">.
  
  :books: I want to learn <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
  
@@ -30,6 +28,7 @@ I am a Full-stack Web Developer.
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 
 ---
 
