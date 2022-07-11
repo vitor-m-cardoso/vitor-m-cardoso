@@ -4,9 +4,9 @@ Sou um Desenvolvedor Web FullStack.
 
 ---
  
- 🌱 No momento estou aprendendo <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">.
+ 🌱 No momento estou aprendendo: <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">.
  
- :books: Ainda vou aprender <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+ :books: Eu quero aprender: <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
  
  💬 Você pode me perguntar qualquer coisa sobre desenvolvimento Full Stack.
  
