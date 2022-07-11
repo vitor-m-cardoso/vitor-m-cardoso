@@ -1,20 +1,20 @@
-# Hi there, Vitor Cardoso here 👋👋
+# Boa dia, boa tarde, boa noite. Eu sou o Vitor Cardoso. 👋👋
 
-I am a Full-stack Web Developer.
+Sou um Desenvolvedor Web FullStack.
 
 ---
  
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">.
+ 🌱 No momento estou aprendendo <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">.
  
- :books: I want to learn <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+ :books: Ainda vou aprender <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
  
- 💬 Ask me about Full Stack Development, and any Tech-related stuff.
+ 💬 Você pode me perguntar qualquer coisa sobre desenvolvimento Full Stack.
  
  ![Profile views](https://gpvc.arturio.dev/vitor-m-cardoso)  <img src="https://img.shields.io/github/followers/vitor-m-cardoso?label=Follow" style=" float:left, margin-right:10px" />
  
  ---
  
- ### Tech & Tools Preference
+ ### Tenho preferência pelas seguintes ferramentas e tecnologias.
  
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -32,7 +32,7 @@ I am a Full-stack Web Developer.
 
 ---
 
-### You can find in me in the web 🌍
+### Você também pode me encontrar nessas redes. 🌍
 [<img align="left" alt="vitor-m-cardoso" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Vitor Cardoso | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Vitor Cardoso | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
