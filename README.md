@@ -1,4 +1,4 @@
-# Boa dia, boa tarde, boa noite. Eu sou o Vitor Cardoso. 👋👋
+# Opa, beleza? Eu sou o Vitor Cardoso. 👋👋
 
 Sou um Desenvolvedor Web FullStack.
 
