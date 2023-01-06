@@ -33,7 +33,6 @@ Sou um Desenvolvedor Web FullStack.
 ---
 
 ### Você também pode me encontrar nessas redes. 🌍
-[<img align="left" alt="vitor-m-cardoso" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Vitor Cardoso | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Vitor Cardoso | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
