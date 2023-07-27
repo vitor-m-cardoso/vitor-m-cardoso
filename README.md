@@ -1,10 +1,10 @@
 # Opa, beleza? Eu sou o Vitor Cardoso. 👋👋
 
-Sou desenvolvedor web Full Stack. Estou sempre em busca de novos desafios, oportunidades para aprimorar minhas habilidades, ajudar a resolver problemas com soluções criativas e eficazes.
+Desenvolvedor Full Stack e apaixonado por tecnologia. Aprimorando diariamente minhas habilidades, gosto de ajudar a resolver problemas com soluções criativas e eficazes.
 
 ---
 
-## 💻 Habilidades Técnicas
+## 💻 Habilidades:
 
 Estou aprendendo: ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
@@ -34,9 +34,9 @@ Aqui estão algumas das tecnologias e ferramentas que tenho experiência:
 
 ## 📫 Entre em contato
 
-Sinta-se à vontade para entrar em contato comigo através de qualquer um dos canais abaixo:
+Sinta-se à vontade para entrar em contato comigo e conversar sobre qualquer assunto:
 
 - [LinkedIn](https://www.linkedin.com/in/vitormcardoso/)
 - [Email](mailto:vitor.mauricioc@outlook.com)
 
-⭐ Não deixe de visitar os repositórios dos projetos e conferir meu trabalho em detalhes! Agradeço pelo interesse.
+⭐ Aproveita que está por aqui e acessa os repositórios dos meus projetos! Se puder deixar um feedback ou uma contribuição, ficarei eternamente grato.
