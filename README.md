@@ -1,6 +1,6 @@
 # Opa, beleza? Eu sou o Vitor Cardoso. 👋👋
 
-Desenvolvedor Full Stack e apaixonado por tecnologia. Aprimorando diariamente minhas habilidades, gosto de ajudar a resolver problemas com soluções criativas e eficazes.
+Desenvolvedor Full Stack e apaixonado por tecnologia. Aprimorando diariamente minhas habilidades, gosto de solucionar problemas com eficácia e criatividade.
 
 ---
 
