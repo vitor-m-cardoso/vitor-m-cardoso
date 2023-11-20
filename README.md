@@ -6,7 +6,7 @@ Desenvolvedor Full Stack e apaixonado por tecnologia. Aprimorando diariamente mi
 
 ## 💻 Habilidades:
 
-Estou aprendendo: ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+Estou aprendendo: ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
 Aqui estão algumas das tecnologias e ferramentas que tenho experiência:
 
@@ -29,6 +29,7 @@ Aqui estão algumas das tecnologias e ferramentas que tenho experiência:
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F1502F)
 ![GitHub](https://img.shields.io/badge/-Github-333333?style=flat&logo=github&logoColor=000000)
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=ad3dfc)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ---
 
