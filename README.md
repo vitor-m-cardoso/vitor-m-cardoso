@@ -28,8 +28,8 @@ Aqui estão algumas das tecnologias e ferramentas que tenho experiência:
 ![MongoBD](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=4DB33D)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F1502F)
 ![GitHub](https://img.shields.io/badge/-Github-333333?style=flat&logo=github&logoColor=000000)
-![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=ad3dfc)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Vercel](https://img.shields.io/badge/-vercel-333333?style=flat&logo=vercel&logoColor=ad3dfc)
 
 ---
 
