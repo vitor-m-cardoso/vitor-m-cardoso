@@ -6,7 +6,7 @@ Desenvolvedor Full Stack e apaixonado por tecnologia. Aprimorando diariamente mi
 
 ## 💻 Habilidades:
 
-Estou aprendendo: ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+Estou aprendendo: ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp) ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin) 
 
 Aqui estão algumas das tecnologias e ferramentas que tenho experiência:
 
