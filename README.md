@@ -1,6 +1,6 @@
 # Opa, beleza? Eu sou o Vitor Cardoso. 👋👋
 
-Desenvolvedor Full Stack e apaixonado por tecnologia. Aprimorando diariamente minhas habilidades, gosto de solucionar problemas com eficácia e criatividade.
+Desenvolvedor back-end e apaixonado por tecnologia. Sempre aprimorando minhas habilidades, tenho prazer em aprender cada dia mais.
 
 ---
 
@@ -8,7 +8,7 @@ Desenvolvedor Full Stack e apaixonado por tecnologia. Aprimorando diariamente mi
 
 Estou aprendendo: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=D1D1D1)
 
-Aqui estão algumas das tecnologias e ferramentas que tenho experiência:
+Aqui estão algumas das tecnologias e ferramentas que possuo experiência:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
@@ -39,4 +39,4 @@ Sinta-se à vontade para entrar em contato comigo e conversar sobre qualquer ass
 - [LinkedIn](https://www.linkedin.com/in/vitormcardoso/)
 - [Email](mailto:vitor.mauricioc@outlook.com)
 
-⭐ Aproveita que está por aqui e acessa os repositórios dos meus projetos! Se puder deixar um feedback ou uma contribuição, ficarei eternamente grato.
+⭐ Aproveitando que você está por aqui, te convido a acessar os repositórios dos meus projetos e conhecer um pouco mais a minha paixão por programação!
