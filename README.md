@@ -6,7 +6,7 @@ Desenvolvedor Full Stack e apaixonado por tecnologia. Aprimorando diariamente mi
 
 ## 💻 Habilidades:
 
-Estou aprendendo: ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp) ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin) 
+Estou aprendendo: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=D1D1D1)
 
 Aqui estão algumas das tecnologias e ferramentas que tenho experiência:
 
@@ -21,7 +21,6 @@ Aqui estão algumas das tecnologias e ferramentas que tenho experiência:
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=D1D1D1)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js&logoColor=D1D1D1)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=D1D1D1)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=D1D1D1)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat)
 ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=JSON+Web+Tokens)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=00c8ff)
