@@ -6,7 +6,7 @@ Desenvolvedor back-end e apaixonado por tecnologia. Sempre aprimorando minhas ha
 
 ## 💻 Habilidades:
 
-Estou aprendendo: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=D1D1D1)
+Estou aprendendo: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=D1D1D1) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=D1D1D1)
 
 Aqui estão algumas das tecnologias e ferramentas que possuo experiência:
 
