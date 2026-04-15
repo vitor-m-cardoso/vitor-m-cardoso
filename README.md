@@ -31,6 +31,7 @@ Aqui estão algumas das tecnologias e ferramentas que possuo experiência:
 
 Sinta-se à vontade para entrar em contato comigo e conversar sobre qualquer assunto:
 
+- [Portfolio](vitorcardosodev.com.br)
 - [LinkedIn](https://www.linkedin.com/in/vitormcardoso/)
 - [Email](mailto:vitor.mauricioc@outlook.com)
 
